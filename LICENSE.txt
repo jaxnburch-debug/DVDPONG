@@ -1,0 +1,12 @@
+MIT License - Non-Commercial
+
+Copyright (c) 2026 Jackson Burch
+
+Permission is granted to use, copy, and modify this software for personal 
+and educational purposes only. Commercial use is strictly prohibited.
+
+This project uses the DVD logo as a visual asset for educational purposes.
+The DVD logo is a trademark of DVD Format/Logo Licensing Corporation.
+No ownership or affiliation is claimed.
+
+This software is provided "as is" with no warranties of any kind.
